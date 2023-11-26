@@ -1,0 +1,4 @@
+Testovana formula: A!C+ABC+!AB+!BC
+Poradie premennych: A B C 
+Percentualna miera zredukovania: 33.33
+Number of unique nodes: 6
